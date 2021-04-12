@@ -6,7 +6,7 @@ For any experiment requiring overnight/24 hrs observation, e.g., drug treatment 
 
 ## Results
 
-Below is the video that recorded the full operation of going to the preset destinations in position list, centralizing the cell and finding the focal plane. The process of centralizing was speeded up 15 times, 0.8x for finding focus and 1.2x for going to the next position.
+Below is the video that recorded the full operation of going to the preset destinations in position list, centralizing the cell and finding the focal plane. The process of centralizing was speeded up 15 times, 0.8x for finding focus and 1.2x for going to the next position. Further, the centeralization was done by using the predicted mask in this project: https://github.com/tehsinchen/Eff-Unet-Keras to locate the cell.
 
 ![image](https://github.com/tehsinchen/Deep_Position_List/blob/main/operation_demo/position_list_autofocus.gif)
 
