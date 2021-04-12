@@ -7,7 +7,9 @@ For any experiment requires over-night/24 hrs observation, e.g., drug treatment 
 ## Results
 
 Below is the video that recorded the full operation of going to the pre-set destinations in position list, centralizing the cell and finding the focal plane. The process of centralizing was speeded up 15 times, 0.8x for finding focus, 1.2x for going to the next position.
+
 ![image](https://github.com/tehsinchen/Deep_Position_List/blob/main/operation_demo/position_list_autofocus.gif)
+
 
 
 
@@ -19,6 +21,7 @@ For the option of non-fixed position which means the lateral and axial positions
 ![image](https://github.com/tehsinchen/Deep_Position_List/blob/main/non-fixed-position/Pos4.gif)
 ![image](https://github.com/tehsinchen/Deep_Position_List/blob/main/non-fixed-position/Pos5.gif)
 ![image](https://github.com/tehsinchen/Deep_Position_List/blob/main/non-fixed-position/Pos6.gif)
+
 
 
 
