@@ -13,7 +13,7 @@ Below is the video that recorded the full operation of going to the preset desti
 
 
 
-For the option of non-fixed position which means the lateral and axial positions were updated by machine, here is the results of snapshot images:
+For the option of non-fixed position which means the lateral and axial positions were all updated by machine, here is the results of snapshot images:
 
 ![image](https://github.com/tehsinchen/Deep_Position_List/blob/main/non-fixed-position/Pos1.gif)
 ![image](https://github.com/tehsinchen/Deep_Position_List/blob/main/non-fixed-position/Pos2.gif)
@@ -25,7 +25,7 @@ For the option of non-fixed position which means the lateral and axial positions
 
 
 
-For the option of fixing lateral-position which can be applied for watching the movement of cells, here is the results:
+For the option of fixing lateral-position which can be applied for watching the movement of cells (axial direction was still determined by machine), here is the results:
 
 ![image](https://github.com/tehsinchen/Deep_Position_List/blob/main/fixed-position/Pos1.gif)
 ![image](https://github.com/tehsinchen/Deep_Position_List/blob/main/fixed-position/Pos2.gif)
