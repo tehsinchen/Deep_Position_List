@@ -13,7 +13,7 @@ Below is the video that recorded the full operation of going to the preset desti
 
 
 
-For the option of non-fixed position which means the lateral and axial positions were all updated by machine, here is the results of snapshot images:
+For the option of non-fixed position which means the lateral and axial positions were all updated by machine, here is the results of snapshot images for 11 cycles:
 
 ![image](https://github.com/tehsinchen/Deep_Position_List/blob/main/non-fixed-position/Pos1.gif)
 ![image](https://github.com/tehsinchen/Deep_Position_List/blob/main/non-fixed-position/Pos2.gif)
