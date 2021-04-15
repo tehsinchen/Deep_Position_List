@@ -1,7 +1,7 @@
 # Position list combined with deep autofocus
 
 
-For any experiment requiring overnight/24 hrs observation, e.g., drug treatment and changing of cell phase, it is essential to keep the objects at focus. In this work, the long-term observation was achieved by combining the works in https://github.com/tehsinchen/Deep_Autofocus and https://github.com/tehsinchen/Position_List_PIStage.
+For any experiment requiring overnight/24 hrs observation, e.g., drug treatment and changing of cell phase, it is essential to keep the objects at focus. However, any movement of the stage will cause the drift on the axial direction, i.e., defocused. In this work, the long-term observation was achieved by combining the works in https://github.com/tehsinchen/Deep_Autofocus and https://github.com/tehsinchen/Position_List_PIStage.
 
 
 ## Results
